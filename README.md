@@ -1,2 +1,2 @@
 # playerVolumeControl
-PlayerVolumeControl behavior for Marionette
+Examplary PlayerVolumeControl behavior for Marionette/Backbone app
